@@ -5,10 +5,11 @@
 I'm a student studying to become an engineer!<br>
 Click [here](https://scrapbox.io/yamato3010/yamato3010) for detailed profile
 
-### SNS
-- Homepage https://yamatoblog.hateblo.jp/
+### SNS 🌎
+- 🏠Homepage https://yamatoblog.hateblo.jp/
+- 🐦Twitter [@yamato_vr](https://twitter.com/yamato_vr)
 
-### Status
+### Status 📊
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamato3010&theme=synthwave&layout=compact" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yamato3010&theme=synthwave" />

@@ -5,7 +5,7 @@
 I'm a student studying to become an engineer!<br>
 Click [here](https://scrapbox.io/yamato3010/yamato3010) for detailed profile
 
-### SNS 🌎
+### SNS・Homepage 🌎
 - 🏠Homepage https://yamatoblog.hateblo.jp/
 - 🐦Twitter [@yamato_vr](https://twitter.com/yamato_vr)
 

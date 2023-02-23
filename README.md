@@ -1,18 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 エンジニアを目指し勉強中の学生です！<br>
 詳細なプロフィールは[こちら](https://scrapbox.io/yamato3010/yamato3010)です<br>
 <br>
 I'm a student studying to become an engineer!<br>
 Click [here](https://scrapbox.io/yamato3010/yamato3010) for detailed profile
 
-### SNS・Homepage 🌎
+## SNS・Homepage 🌎
 - 🏠[Homepage](https://yamatoblog.hateblo.jp/)
 - 📦[Scrapbox](https://scrapbox.io/yamato3010/%E5%A4%A7%E5%92%8C%E3%83%8E%E6%B1%82%E8%81%9E%E5%8F%B2box)
 - 🐦[Twitter @yamato_vr](https://twitter.com/yamato_vr)
 - 🐘[Mastodon @yamato3010@fedibird.com](https://fedibird.com/@yamato3010)
 - 💬[Misskey @yamato3010@misskey.io](https://misskey.io/@yamato3010)
 
-### Status 📊
+## Status 📊
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamato3010&theme=synthwave&layout=compact" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yamato3010&theme=synthwave" />

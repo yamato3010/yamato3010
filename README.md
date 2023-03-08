@@ -11,6 +11,8 @@ Click [here](https://scrapbox.io/yamato3010/yamato3010) for detailed profile
 - 🐦[Twitter @yamato_vr](https://twitter.com/yamato_vr)
 - 🐘[Mastodon @yamato3010@fedibird.com](https://fedibird.com/@yamato3010)
 - 💬[Misskey @yamato3010@misskey.io](https://misskey.io/@yamato3010)
+- 🦩[Nostr](https://iris.to/yamato)`npub1a44x5ymp0t5l4w7ewznam48rv5aw3d3aszehsc296f7qscnsp5lsjxpmw8`
+- 🏙️[Bluesky @yamato.bsky.social](https://bsky.app/profile/yamato.bsky.social)
 - 🔗[Other links](https://bento.me/yamato)
 
 ## Status 📊

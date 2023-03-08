@@ -13,7 +13,7 @@ Click [here](https://scrapbox.io/yamato3010/yamato3010) for detailed profile
 - 💬[Misskey @yamato3010@misskey.io](https://misskey.io/@yamato3010)
 - 🦩[Nostr](https://iris.to/yamato) `npub1a44x5ymp0t5l4w7ewznam48rv5aw3d3aszehsc296f7qscnsp5lsjxpmw8`
 - 🏙️[Bluesky @yamato.bsky.social](https://bsky.app/profile/yamato.bsky.social)
-- 🔗[Other links](https://bento.me/yamato)
+- 🍱[Other links](https://bento.me/yamato)
 
 ## Status 📊
 <p align="left"> 

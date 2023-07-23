@@ -2,8 +2,6 @@
 エンジニアを目指し勉強中の学生です！<br>
 <br>
 I'm a student studying to become an engineer!<br>
-Click [here](https://scrapbox.io/yamato3010/yamato3010) for detailed profile
-
 ## Status 📊
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamato3010&theme=synthwave&layout=compact" />

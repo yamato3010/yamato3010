@@ -1,7 +1,7 @@
 ## Hi there 👋
-エンジニアを目指し勉強中の見習いエンジニアです！<br>
+最近社会人になった見習いエンジニアです！<br>
 <br>
-I’m an aspiring engineer currently studying!<br>
+I’m a junior engineer who recently started working full-time.<br>
 ## Status 📊
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamato3010&theme=synthwave&layout=compact" />
